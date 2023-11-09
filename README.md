@@ -3,8 +3,14 @@ This "R-statistics" course is intendend for the students in agricultural and bio
 
 Objectives
 
-  "Understand when to use different experimental designs and how randomization and layouts are generated     both in vivo and in vitro"
-  "Understand and learn how to perform mean comparisons and analysis of variance"
-  "Understand and learn how to use data transformations"
-  "Understand how to handle missing data"
+  "Understand the different experimental designs, experimental unit, obsesrvational unit realting with when to use them, and how randomization and       layouts are generated both in vivo and in vitro"
+  
+  "Learn how to perform mean comparisons and analysis of variance"
+  
+  "Perceive how to visualize and manipulated the data"
+  
+  "Know and learn how to handle the missing data"
+  
+  "Find out and learn how to use data transformations "
+    
   "Understand how to study relationships between variables using correlation and linear regression"
