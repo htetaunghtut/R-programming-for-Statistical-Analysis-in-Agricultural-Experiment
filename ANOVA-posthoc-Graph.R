@@ -1,3 +1,6 @@
+## Dr. Htet Aung Htut
+## Short course in R for ABT students
+
 library(readxl)
 #lm() function
 str (Gomez_CRD)
