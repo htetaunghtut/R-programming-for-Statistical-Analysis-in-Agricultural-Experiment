@@ -1,3 +1,5 @@
+#            Dr. Htet Aung Htut
+#            Short course in R for ABT students
 #Loading the appropriate libraries
 # loading the appropriate libraries
 library(readr)
