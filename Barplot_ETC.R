@@ -1,3 +1,5 @@
+#        Dr. Htet Aung Htut
+#        Short course in R for ABT students
 data("ToothGrowth")
 tg <- ToothGrowth
 head(tg)
