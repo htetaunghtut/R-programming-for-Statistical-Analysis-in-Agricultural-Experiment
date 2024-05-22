@@ -1,5 +1,6 @@
 # R-for-Statistical-Analysis-in-Agricultural-and-Biological-Sciences
-This "R-statistics" course is intendend for the students in agricultural and biological sciences, and is a starting point for learning more advanced statistical techniques.
+"Designed for students in agricultural and biological sciences,
+this R statistics course provides a foundation for further exploration of advanced statistical techniques."
 
 Objectives
 
